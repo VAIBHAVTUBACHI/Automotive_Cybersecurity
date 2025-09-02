@@ -102,9 +102,6 @@ CMAC verification ❌ failed
 
 → **`verifyFV`**: Verifies that the received Freshness Value is greater than the previously stored FV, ensuring no replay attacks.
 
-==============================================================
-                          License
-==============================================================
 
-This project is licensed under the MIT License.
+Feel free to modify the code as needed and ensure that your software integrity checks are robust for your deployment needs. Stay secure!
 
